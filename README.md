@@ -64,14 +64,15 @@
 - [ ] Drop a new multicolumn into leaf placeholder - bottom
 - [ ] Drop a new multicolumn into leaf placeholder - left
 - [ ] Drop a new multicolumn into leaf placeholder - right
-- [ ] Drop any existing element into leaf placeholder - top
-- [ ] Drop any existing element into leaf placeholder - bottom
-- [ ] Drop any existing element into leaf placeholder - left
-- [ ] Drop any existing element into leaf placeholder - right
-- [ ] Drop an existing column into leaf placeholder - top
-- [ ] Drop an existing column into leaf placeholder - bottom
-- [ ] Drop an existing column into leaf placeholder - left
-- [ ] Drop an existing column into leaf placeholder - right
+
+- [ ] Move any existing element into leaf placeholder - top
+- [ ] Move any existing element into leaf placeholder - bottom
+- [ ] Move any existing element into leaf placeholder - left
+- [ ] Move any existing element into leaf placeholder - right
+- [ ] Move an existing column into leaf placeholder - top
+- [ ] Move an existing column into leaf placeholder - bottom
+- [ ] Move an existing column into leaf placeholder - left
+- [ ] Move an existing column into leaf placeholder - right
 
 ## Column top, bottom, left, right
 
@@ -79,8 +80,8 @@
 - [ ] Drop any new element into column placeholder - right
 - [ ] Drop a new multicolumn into column placeholder - left
 - [ ] Drop a new multicolumn into column placeholder - right
-- [ ] Drop an existing column into column placeholder - left
-- [ ] Drop an existing column into column placeholder - right
+- [ ] Move an existing column into column placeholder - left
+- [ ] Move an existing column into column placeholder - right
 
 ## Empty placeholder(for box, fullwidth, column)
 
