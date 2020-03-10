@@ -7,8 +7,8 @@
 - [x] drop all new elements into fullwidth placeholder - very bottom
 - [x] drop all new elements into fullwidth placeholder - anywhere in the middle
 
-- [x] drop all new elements into THE PREVIOUSLY DROPPED IN ELEMENT'S (now fullwidth block) top placeholder
-- [x] drop all new elements into THE PREVIOUSLY DROPPED IN ELEMENT'S (now fullwidth block) bottom placeholder
+- [ ] drop all new elements into THE PREVIOUSLY DROPPED IN ELEMENT'S (now fullwidth block) top placeholder
+- [ ] drop all new elements into THE PREVIOUSLY DROPPED IN ELEMENT'S (now fullwidth block) bottom placeholder
 - [ ] drop any new element into THE PREVIOUSLY DROPPED IN ELEMENT'S (now fullwidth block) left placeholder
 - [ ] drop any new element into THE PREVIOUSLY DROPPED IN ELEMENT'S (now fullwidth block) right placeholder
 
